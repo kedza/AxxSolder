@@ -5,7 +5,7 @@
 Interested in purchasing an AxxSolder 3.2?  
 On my website [5Dimensions](https://www.5dimensions.se/) you can purchase assembled and tested AxxSolder 3.2 boards with connectors and hardware.  
 🌍During October 2025 - mid March 2026 AxxAxx will be away on a travel around the world. 
-The 5Dimensions shop will be clused during this time and AxxSolder support will be limited.🌍
+The 5Dimensions shop will be closed during this time and AxxSolder support will be limited.🌍
 
 <img src="./photos/5DIMENSIONS_Logo.png" alt="drawing" width="200"/>
 
