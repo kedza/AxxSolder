@@ -141,7 +141,7 @@ These come in a variety of models and are available from several different place
 2. Download the latest `AxxSolder.bin` file from [Releases](https://github.com/AxxAxx/AxxSolder/releases)
 3. Connect the AxxSolder via USB to a computer that runs [STM32CubeProgrammer](https://www.st.com/en/development-tools/stm32cubeprog.html) - hold down the rightmost button (S3) while plugging in the USB connector in order to enter DFU mode (your safest bet is to use a USB-A to USB-C cable, because in some cases the PD negotiation may mess things up - a USB-C to C cable that is known to **not** support PD negotiation (CC lines unconnected) can alternatively be used).
 5. Connect to the target by selecting *USB* and click on *Connect*
-6. Load the latest AxxSolder.bin downloaded in *Step 2* by clicking *Open file* and select the downloaded binary file.
+6. Load the latest `AxxSolder.bin` downloaded in *Step 2* by clicking *Open file* and select the downloaded binary file.
 7. Write the firmware to the MCU by clicking *Download*.
 8. If you get the message *File download complete* everything succeeded and the USB cable can be disconnected.
 9. Power cycle once and AxxSolder should boot.
